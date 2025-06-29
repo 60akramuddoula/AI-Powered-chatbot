@@ -1,4 +1,4 @@
-![Screenshot](static/images/demo.png)
+![Screenshot](https://github.com/60akramuddoula/AI-Powered-chatbot/blob/main/Screenshot%202025-06-29%20130418.png)
 
 🌟 Best ideas come when you least expect them…
 
